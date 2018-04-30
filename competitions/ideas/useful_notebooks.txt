@@ -1,7 +1,7 @@
 * --------------------------      R     -----------------------------*
 # basic analysis + viz
-high light:
-
+highlights:
+Alluvial diagram, arima,
 https://www.kaggle.com/kailex/talkingdata-eda-and-class-imbalance
 
 

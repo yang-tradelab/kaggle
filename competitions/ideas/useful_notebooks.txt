@@ -1,10 +1,18 @@
 * --------------------------      R     -----------------------------*
-# basic analysis + viz
-highlights:
-Alluvial diagram, arima,
-https://www.kaggle.com/kailex/talkingdata-eda-and-class-imbalance
+== compte: talking data app download ==
+    # basic analysis + viz
+    highlights:
+        Alluvial diagram, arima,
+
+    https://www.kaggle.com/kailex/talkingdata-eda-and-class-imbalance
+
 
 
 
 
 * --------------------------      Python     -----------------------------*
+== compte:  Web Traffic Time Series Forecasting ==
+    # analysis + viz
+    highlights:
+        compared different approachs to this question + viz
+    https://www.kaggle.com/zoupet/predictive-analysis-with-different-approaches/notebook

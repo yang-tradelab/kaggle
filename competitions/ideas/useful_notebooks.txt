@@ -1,6 +1,6 @@
 * --------------------------      R     -----------------------------*
 == compte: talking data app download ==
-    # basic analysis + viz
+    *** basic analysis + viz
     highlights:
         Alluvial diagram, arima,
 
@@ -12,7 +12,14 @@
 
 * --------------------------      Python     -----------------------------*
 == compte:  Web Traffic Time Series Forecasting ==
-    # analysis + viz
+    *** analysis + viz
     highlights:
         compared different approachs to this question + viz
     https://www.kaggle.com/zoupet/predictive-analysis-with-different-approaches/notebook
+
+
+== compte: talking data app download ==
+    * feature importance + confidance score
+    highlights:
+    ploted feature importance with model selection, create confidance score
+    https://www.kaggle.com/nanomathias/feature-engineering-importance-testing

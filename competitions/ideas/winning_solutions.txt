@@ -10,6 +10,11 @@ code:
 https://github.com/jfpuget/Kaggle/tree/master/WebTrafficPrediction
 
 
+* Instacart Market Basket Analysis *
+# 15th : big querry of feature creation
+https://www.kaggle.com/tkm2261/my-15th-solution-features-mainly-using-bigquery
+
+
 * Criteo *
 
 

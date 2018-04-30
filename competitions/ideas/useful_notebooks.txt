@@ -1,0 +1,10 @@
+* --------------------------      R     -----------------------------*
+# basic analysis + viz
+high light:
+
+https://www.kaggle.com/kailex/talkingdata-eda-and-class-imbalance
+
+
+
+
+* --------------------------      Python     -----------------------------*

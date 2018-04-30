@@ -23,14 +23,18 @@ https://www.kaggle.com/kailex/talkingdata-eda-and-class-imbalance
     #COCOB optimizer (see paper Training Deep Networks without Learning Rates Through Coin Betting (https://arxiv.org/abs/1705.07795) )
 COCOB tries to predict optimal learning rate for every training step, so I don't have to tune learning rate at all. It also converges considerably faster than traditional momentum-based optimizers, especially on first epochs, allowing me to stop unsuccessful experiments early.
 
-    # hyperopt
-
 
 # robust
 ASGD: SGD averaging (reducing variance and improving model performance )
 
 # hyper-parameter tuning
-SMAC (https://automl.github.io/SMAC3/stable/)
+    In genral:
+    http://fastml.com/optimizing-hyperparams-with-hyperopt/
+    # SMAC
+    https://automl.github.io/SMAC3/stable/
+    # hyperopt
+    http://hyperopt.github.io/hyperopt/
+
 
 
 # regularization

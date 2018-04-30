@@ -1,0 +1,37 @@
+# target enconding
+https://www.coursera.org/learn/competitive-data-science/lecture/b5Gxv/concept-of-mean-encoding
+https://www.kaggle.com/ogrellier/python-target-encoding-for-categorical-features
+
+# adversarial validation
+http://fastml.com/adversarial-validation-part-two/
+https://www.kaggle.com/konradb/adversarial-validation-and-other-scary-terms
+https://www.kaggle.com/sohaibomar/adversarial-validation
+
+
+# feature engineering
+    #using big querry (sql style) 注意他的feature的构建
+https://www.kaggle.com/tkm2261/my-15th-solution-features-mainly-using-bigquery
+
+# feature interaction:
+    #sanky diagram
+https://plot.ly/~alishobeiri/1591/plotly-sankey-diagrams/
+    # or Alluvial diagram in R
+https://www.kaggle.com/kailex/talkingdata-eda-and-class-imbalance
+
+
+# optimisation
+    #COCOB optimizer (see paper Training Deep Networks without Learning Rates Through Coin Betting (https://arxiv.org/abs/1705.07795) )
+COCOB tries to predict optimal learning rate for every training step, so I don't have to tune learning rate at all. It also converges considerably faster than traditional momentum-based optimizers, especially on first epochs, allowing me to stop unsuccessful experiments early.
+
+    # hyperopt
+
+
+# robust
+ASGD: SGD averaging (reducing variance and improving model performance )
+
+# hyper-parameter tuning
+SMAC (https://automl.github.io/SMAC3/stable/)
+
+
+# regularization
+RNN activation regularizations from the paper "Regularizing RNNs by Stabilizing Activations"

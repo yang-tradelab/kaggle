@@ -1,0 +1,17 @@
+* webtraffic prediction: predict wikipedea pageviews *
+# 1st: RNN seq2seq model
+https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43795
+code:
+https://github.com/Arturus/kaggle-web-traffic (very constructive, must read)
+
+# 2st: simple NN (dropout, batch normalization) + xgb
+https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/44729
+code:
+https://github.com/jfpuget/Kaggle/tree/master/WebTrafficPrediction
+
+
+* Criteo *
+
+
+
+* Talking Data*

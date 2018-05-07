@@ -23,3 +23,8 @@
     highlights:
     ploted feature importance with model selection, create confidance score
     https://www.kaggle.com/nanomathias/feature-engineering-importance-testing
+
+
+
+# timeseries prediction tutorial
+https://www.kaggle.com/kanncaa1/time-series-prediction-tutorial-with-eda
